@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-axis-air-llc.dream-surge.com/sitemap-index.xml

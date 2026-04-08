@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Axis Air, LLC",
+    "phone": "+19153523916",
+    "category": "HVAC contractor",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Trusted HVAC Experts",
+      "heroSubline": "Axis Air delivers reliable heating and cooling solutions across the Sun City. We're committed to keeping your home comfortable, no matter the season.",
+      "aboutTitle": "Keeping El Paso Comfortable Since 2012",
+      "aboutText": [
+        "Axis Air, LLC was founded on the principles of hard work, integrity, and a dedication to superior HVAC service in El Paso. We saw a need for a contractor that truly understood the unique climate challenges faced by homeowners in our region, from the scorching summer heat to the occasional chilly winter night. We're committed to providing solutions that are both effective and energy-efficient.",
+        "Our approach is simple: listen to our customers, assess their needs thoroughly, and deliver high-quality workmanship that exceeds expectations. We use only the best materials and equipment, and our technicians are highly trained and certified to handle any HVAC issue. We believe in transparent communication and fair pricing, so you always know what to expect.",
+        "Axis Air is proud to be a part of the El Paso community. We support local schools and charities, and we're committed to giving back to the city that has supported us. We understand the importance of reliable HVAC systems in our desert climate, and we're here to ensure that your home or business remains comfortable year-round."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Technicians",
+          "description": "Certified and experienced professionals dedicated to quality workmanship."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Prompt and dependable HVAC solutions you can count on."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Upfront and honest estimates with no hidden fees."
+        },
+        {
+          "title": "Energy Efficiency",
+          "description": "Solutions designed to save you money and reduce your environmental impact."
+        }
+      ],
+      "ctaHeadline": "Get a Free HVAC Quote Today",
+      "ctaSubline": "Contact Axis Air for expert service and reliable solutions for your home or business."
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "AC Repair",
+        "shortDescription": "Fast and reliable AC repair services to beat the El Paso heat.",
+        "description": "When your air conditioner breaks down in the middle of an El Paso summer, you need a reliable HVAC contractor you can trust. Axis Air provides prompt and professional AC repair services to get your system back up and running quickly. Our experienced technicians are equipped to diagnose and repair all makes and models of air conditioners, from central AC units to ductless mini-splits. We understand the urgency of AC repairs in our hot desert climate, and we offer emergency services to ensure your comfort is restored as soon as possible.\n\nWe begin every service call with a thorough inspection of your AC system to identify the root cause of the problem. We then provide you with a clear and concise explanation of the issue, along with a detailed estimate for the repair. We use only high-quality replacement parts to ensure the longevity and reliability of your AC system. Common AC repairs we handle include refrigerant leaks, compressor failures, fan motor issues, and electrical problems. \n\nDon't suffer through another sweltering day without a working AC. Contact Axis Air for fast, reliable, and affordable AC repair services in El Paso and surrounding areas. We're here to keep you cool and comfortable all summer long.",
+        "process": [
+          "Step 1: Schedule a convenient appointment time.",
+          "Step 2: Diagnostic assessment of your AC system.",
+          "Step 3: Clear explanation of the issue and repair options.",
+          "Step 4: Efficient and professional AC repair service."
+        ],
+        "benefits": [
+          "Fast response times",
+          "Experienced technicians",
+          "Quality parts",
+          "Guaranteed satisfaction"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair request?",
+            "answer": "We understand the urgency of AC repairs in El Paso's hot climate and strive to provide same-day or next-day service whenever possible."
+          },
+          {
+            "question": "Do you offer emergency AC repair services?",
+            "answer": "Yes, we offer 24/7 emergency AC repair services to ensure your comfort is restored as quickly as possible."
+          },
+          {
+            "question": "What types of AC systems do you repair?",
+            "answer": "Our technicians are trained to repair all makes and models of air conditioners, including central AC units, ductless mini-splits, and window units."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "AC Installation",
+        "shortDescription": "Expert AC installation for efficient cooling in El Paso homes.",
+        "description": "Choosing the right air conditioning system for your El Paso home is crucial for staying comfortable during our long, hot summers. Axis Air provides professional AC installation services, ensuring that your new system is properly sized and installed for optimal performance and energy efficiency. We work with all major brands and offer a wide selection of AC units to meet your specific needs and budget.\n\nOur AC installation process begins with a thorough assessment of your home's cooling needs. We take into account factors such as square footage, insulation levels, window placement, and the number of occupants to determine the appropriate size and type of AC system for your home. We then provide you with a detailed estimate for the installation, including all labor and materials.\n\nOur experienced technicians handle every aspect of the AC installation process, from removing your old unit to installing the new one and connecting it to your home's electrical and ductwork systems. We ensure that all connections are secure and that the system is properly calibrated for optimal performance. We also provide you with instructions on how to operate and maintain your new AC system. With proper installation from Axis Air, you can be sure that your new AC unit will handle the heat of El Paso for years to come.",
+        "process": [
+          "Step 1: Home assessment and cooling needs analysis.",
+          "Step 2: Selection of the right AC system for your home.",
+          "Step 3: Professional installation by certified technicians.",
+          "Step 4: System testing and performance verification."
+        ],
+        "benefits": [
+          "Proper sizing",
+          "Energy efficiency",
+          "Professional installation",
+          "Extended lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what size AC unit I need for my home?",
+            "answer": "Our technicians will perform a thorough assessment of your home's cooling needs to determine the appropriate size AC unit for optimal performance and energy efficiency. Factors such as square footage, insulation levels, and window placement are taken into account."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to help make AC installation more affordable. Contact us to learn more about our financing plans."
+          },
+          {
+            "question": "How long does AC installation typically take?",
+            "answer": "The duration of AC installation depends on the complexity of the project, but most installations can be completed in one to two days."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-repair",
+        "name": "Furnace Repair",
+        "shortDescription": "Reliable furnace repair services to keep you warm during El Paso winters.",
+        "description": "While El Paso winters are mild, a functioning furnace is still essential for maintaining a comfortable indoor environment. Axis Air provides prompt and reliable furnace repair services to ensure that your heating system is working efficiently when you need it most. Our experienced technicians are equipped to diagnose and repair all makes and models of furnaces, including gas, electric, and propane models.\n\nWe understand the importance of a properly functioning furnace, especially during the colder months. That's why we offer 24/7 emergency furnace repair services to address urgent heating issues. Whether your furnace is making strange noises, not producing heat, or experiencing other problems, our technicians will quickly identify the cause and provide you with effective repair solutions.\n\nOur furnace repair process begins with a thorough inspection of your heating system to identify the root cause of the problem. We then provide you with a clear and concise explanation of the issue, along with a detailed estimate for the repair. We use only high-quality replacement parts to ensure the longevity and reliability of your furnace. Don't get caught in the cold; call Axis Air for reliable furnace repair in El Paso.",
+        "process": [
+          "Step 1: Schedule a convenient appointment time.",
+          "Step 2: Diagnostic assessment of your furnace system.",
+          "Step 3: Clear explanation of the issue and repair options.",
+          "Step 4: Efficient and professional furnace repair service."
+        ],
+        "benefits": [
+          "Fast response times",
+          "Experienced technicians",
+          "Quality parts",
+          "Guaranteed satisfaction"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my furnace serviced?",
+            "answer": "It's recommended to have your furnace serviced annually to ensure optimal performance and prevent potential problems."
+          },
+          {
+            "question": "What are some signs that my furnace needs repair?",
+            "answer": "Common signs include strange noises, insufficient heat, frequent cycling, and a yellow or orange pilot light."
+          },
+          {
+            "question": "Do you offer emergency furnace repair services?",
+            "answer": "Yes, we offer 24/7 emergency furnace repair services to address urgent heating issues."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-installation",
+        "name": "Furnace Installation",
+        "shortDescription": "Professional furnace installation for efficient heating in El Paso homes.",
+        "description": "If your existing furnace is old, inefficient, or beyond repair, Axis Air can help you choose and install a new, energy-efficient furnace for your El Paso home. We offer a wide selection of furnaces from leading manufacturers, and our experienced technicians ensure that your new furnace is properly sized and installed for optimal performance and energy savings.\n\nOur furnace installation process begins with a thorough assessment of your home's heating needs. We take into account factors such as square footage, insulation levels, and climate zone to determine the appropriate size and type of furnace for your home. We then provide you with a detailed estimate for the installation, including all labor and materials.\n\nOur experienced technicians handle every aspect of the furnace installation process, from removing your old unit to installing the new one and connecting it to your home's gas line and ductwork systems. We ensure that all connections are secure and that the system is properly calibrated for optimal performance. We also provide you with instructions on how to operate and maintain your new furnace. A new furnace from Axis Air will keep you warm on those occasional winter nights.",
+        "process": [
+          "Step 1: Home assessment and heating needs analysis.",
+          "Step 2: Selection of the right furnace for your home.",
+          "Step 3: Professional installation by certified technicians.",
+          "Step 4: System testing and performance verification."
+        ],
+        "benefits": [
+          "Energy efficiency",
+          "Improved comfort",
+          "Quieter operation",
+          "Longer lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know when it's time to replace my furnace?",
+            "answer": "If your furnace is more than 15 years old, requires frequent repairs, or is no longer heating your home efficiently, it may be time to consider a replacement."
+          },
+          {
+            "question": "What type of furnace is best for my home?",
+            "answer": "The best type of furnace for your home depends on factors such as your budget, energy efficiency goals, and the availability of natural gas."
+          },
+          {
+            "question": "Do you offer financing options for furnace installation?",
+            "answer": "Yes, we offer flexible financing options to help make furnace installation more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "ductwork-services",
+        "name": "Ductwork Services",
+        "shortDescription": "Improve your HVAC system's efficiency with our ductwork services.",
+        "description": "Leaky or poorly designed ductwork can significantly reduce the efficiency of your HVAC system, leading to higher energy bills and uneven temperatures throughout your home. Axis Air offers comprehensive ductwork services to ensure that your ductwork is properly sealed, insulated, and sized for optimal performance. We serve homes throughout El Paso, where the older adobe-style and stucco homes can have unique ductwork challenges.\n\nOur ductwork services include ductwork inspection, sealing, repair, and replacement. We use advanced diagnostic tools to identify leaks and other problems in your ductwork system. We then provide you with a detailed report of our findings and recommend the most appropriate solutions. Our technicians are skilled in sealing ductwork with mastic and tape to prevent air leaks and improve energy efficiency. We also offer ductwork insulation services to further reduce heat loss or gain.\n\nIf your ductwork is severely damaged or outdated, we can replace it with new, properly sized ductwork that will improve the performance and efficiency of your HVAC system. Proper ductwork is essential for efficient heating and cooling, especially in El Paso's climate.",
+        "process": [
+          "Step 1: Ductwork inspection and assessment.",
+          "Step 2: Identification of leaks and other problems.",
+          "Step 3: Sealing and insulation of ductwork.",
+          "Step 4: Ductwork repair or replacement (if needed)."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Lower energy bills",
+          "More consistent temperatures",
+          "Improved indoor air quality"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my ductwork is leaking?",
+            "answer": "Signs of leaky ductwork include higher energy bills, uneven temperatures, and dust accumulation around vents."
+          },
+          {
+            "question": "What are the benefits of sealing my ductwork?",
+            "answer": "Sealing your ductwork can improve energy efficiency, lower energy bills, and improve indoor air quality."
+          },
+          {
+            "question": "How often should I have my ductwork inspected?",
+            "answer": "It's recommended to have your ductwork inspected every few years to ensure it's in good condition."
+          }
+        ]
+      },
+      {
+        "slug": "indoor-air-quality",
+        "name": "Indoor Air Quality Solutions",
+        "shortDescription": "Improve your home's air quality with our IAQ solutions.",
+        "description": "Poor indoor air quality can contribute to a variety of health problems, including allergies, asthma, and respiratory infections. Axis Air offers a range of indoor air quality solutions to help you breathe easier and improve your overall health. We serve homes in El Paso, where dust and allergens can be a significant concern, especially in the older neighborhoods and near the desert.\n\nOur indoor air quality solutions include air purifiers, air filters, humidifiers, and dehumidifiers. We can help you choose the right products for your specific needs and budget. Our technicians are skilled in installing and maintaining these systems to ensure that they are working effectively. We also offer duct cleaning services to remove dust, pollen, and other contaminants from your ductwork system.\n\nBreathing clean air is essential for good health. Contact Axis Air today to learn more about our indoor air quality solutions and how we can help you create a healthier home environment.",
+        "process": [
+          "Step 1: Indoor air quality assessment.",
+          "Step 2: Selection of appropriate IAQ solutions.",
+          "Step 3: Professional installation and maintenance.",
+          "Step 4: Duct cleaning (if needed)."
+        ],
+        "benefits": [
+          "Improved air quality",
+          "Reduced allergies",
+          "Fewer respiratory problems",
+          "Healthier home environment"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of poor indoor air quality?",
+            "answer": "Signs of poor indoor air quality include allergies, asthma, headaches, and fatigue."
+          },
+          {
+            "question": "What are the benefits of air purifiers?",
+            "answer": "Air purifiers can remove dust, pollen, pet dander, and other contaminants from the air."
+          },
+          {
+            "question": "How often should I change my air filter?",
+            "answer": "It's recommended to change your air filter every one to three months, depending on the type of filter and the level of air pollution."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "Axis Air, LLC is proud to serve the vibrant city of El Paso, Texas, providing top-notch HVAC services to homes and businesses throughout the area. From the historic charm of downtown to the growing communities in the Upper Valley, we understand the unique climate challenges El Paso faces, and we're equipped to handle them all.\n\nWhether you need a new air conditioning system installed to combat the summer heat, furnace repairs to keep you warm during the cooler months, or routine maintenance to ensure optimal performance, our team of experienced technicians is here to help. We're committed to providing exceptional service and reliable solutions to keep your home comfortable year-round. We also offer services for commercial properties, including large scale system repairs and maintenance.",
+        "localContext": "El Paso's blend of cultures and its location on the border with Mexico influence its unique character and HVAC needs, with many older homes requiring specialized attention.",
+        "nearbyAreas": [
+          "Socorro",
+          "Anthony",
+          "Canutillo"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "Axis Air, LLC extends its expert HVAC services to the town of Socorro, Texas, ensuring residents and businesses enjoy comfortable and efficient indoor environments. We understand the specific needs of this close-knit community and are dedicated to providing reliable and affordable solutions.\n\nFrom AC repairs and installations to furnace maintenance and air quality assessments, our skilled technicians are equipped to handle all your HVAC needs. We prioritize customer satisfaction and strive to deliver prompt, professional service with every visit. We understand the importance of a properly functioning HVAC system in Socorro's climate and are committed to keeping your home or business comfortable year-round.",
+        "localContext": "Socorro's rich history and strong sense of community make it a unique place to live, and Axis Air, LLC is proud to serve its HVAC needs.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "Axis Air, LLC is pleased to offer comprehensive HVAC services to the growing community of Horizon City, Texas. We understand the importance of reliable and efficient heating and cooling systems in this dynamic area, and we're dedicated to providing top-quality service to our customers.\n\nWhether you're building a new home or need to upgrade your existing HVAC system, our experienced technicians can help. We offer a wide range of services, including AC installation, furnace repair, duct cleaning, and preventative maintenance. We are committed to ensuring your Horizon City home or business remains comfortable throughout the year, no matter the weather.",
+        "localContext": "Horizon City's rapid growth and focus on family make it a desirable place to live, and Axis Air, LLC is committed to providing reliable HVAC services to support its residents.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "Axis Air, LLC is proud to provide HVAC services to the town of Anthony, Texas, ensuring homes and businesses have reliable and efficient heating and cooling. We understand the local climate and are dedicated to keeping our customers comfortable year-round.\n\nFrom routine maintenance to emergency repairs, our skilled technicians are equipped to handle all your HVAC needs. We offer a full range of services, including AC installation, furnace repair, duct cleaning, and air quality testing. Serving both residential and commercial customers is our specialty.",
+        "localContext": "Anthony's small-town charm and proximity to the border make it a unique place, and Axis Air, LLC is committed to serving its HVAC needs with integrity and professionalism.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "Axis Air, LLC is dedicated to providing top-quality HVAC services to the residents and businesses of Canutillo, Texas. We understand the importance of a comfortable and healthy indoor environment, especially in the desert climate of West Texas.\n\nOur experienced technicians are equipped to handle all your HVAC needs, from routine maintenance and repairs to new system installations. We offer a wide range of services, including AC repair, furnace maintenance, duct cleaning, and air quality testing. We are committed to providing prompt, reliable service and ensuring your complete satisfaction.",
+        "localContext": "Canutillo's blend of rural charm and proximity to El Paso create a unique environment, and Axis Air, LLC is proud to serve its HVAC needs.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "Axis Air, LLC proudly serves the town of Clint, Texas, offering reliable and affordable HVAC solutions to homes and businesses. We understand the importance of a properly functioning HVAC system in maintaining comfort and energy efficiency in the desert climate.\n\nOur skilled technicians are equipped to handle a wide range of HVAC services, including AC repair, furnace maintenance, duct cleaning, and new system installations. We are committed to providing prompt, professional service and ensuring your complete satisfaction. We can assist both residential and commercial properties.",
+        "localContext": "Clint's rich agricultural history and close-knit community make it a special place, and Axis Air, LLC is dedicated to providing reliable HVAC services to its residents.",
+        "nearbyAreas": [
+          "Socorro",
+          "Horizon City",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "Axis Air, LLC extends its HVAC expertise to San Elizario, Texas, providing reliable and efficient services to homes and businesses in this historic community. We understand the unique architectural features of many homes in San Elizario and offer tailored solutions to meet their specific HVAC needs.\n\nFrom AC repairs and installations to furnace maintenance and air quality improvements, our experienced technicians are equipped to handle all your HVAC requirements. We pride ourselves on delivering exceptional customer service and ensuring your complete satisfaction. We are committed to keeping your San Elizario home or business comfortable year-round.",
+        "localContext": "San Elizario's rich history and preservation efforts make it a unique place, and Axis Air, LLC is committed to providing HVAC services that respect its heritage.",
+        "nearbyAreas": [
+          "Socorro",
+          "Clint",
+          "Ysleta"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "Axis Air, LLC is happy to provide HVAC services to the town of Vinton, Texas. We offer reliable and affordable heating and cooling to homes and businesses. We understand the local climate and are dedicated to keeping our customers comfortable year-round.\n\nOur skilled technicians handle all your HVAC needs, from routine maintenance to emergency repairs. We offer a full range of services, including AC installation, furnace repair, duct cleaning, and air quality testing. We serve both residential and commercial customers.",
+        "localContext": "Vinton's location provides a unique environment, and Axis Air, LLC is committed to serving its HVAC needs with integrity and professionalism.",
+        "nearbyAreas": [
+          "Anthony",
+          "Canutillo",
+          "El Paso"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Axis Air saved us during a heat wave! Our AC went out on a Saturday, and they were at our house within a couple of hours. The technician, David, was knowledgeable and quickly diagnosed the problem. He had the parts on hand and got us back up and running in no time. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Furnace Installation",
+        "text": "We recently had Axis Air install a new furnace in our home in Kern Place. The process was smooth from start to finish. The installers were professional and courteous, and they cleaned up after themselves. The new furnace is much more efficient than our old one, and we're already seeing savings on our gas bill.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 5,
+        "service": "Ductwork Sealing",
+        "text": "I had Axis Air seal my ductwork after noticing that some rooms in my house were always hotter or colder than others. They did a great job, and I've noticed a big difference in the comfort of my home. My energy bills have also gone down. Very happy with their service!",
+        "date": "2024-11-01"
+      },
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "service": "AC Installation",
+        "text": "Excellent service! Axis Air installed a new AC unit in my rental property in the Upper Valley. They were prompt, professional, and reasonably priced. I will definitely use them again for future HVAC needs.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Linda S.",
+        "rating": 4,
+        "service": "Indoor Air Quality Assessment",
+        "text": "I called Axis Air because my kids were having allergy problems. They came out and did a thorough assessment of our indoor air quality and recommended a few solutions. We installed an air purifier, and it has made a big difference! Thank you, Axis Air!",
+        "date": "2024-05-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC unit stopped working on a hot summer night. Axis Air responded quickly and got our AC back up and running in no time. The technician was very friendly and professional. Highly recommend their services!",
+        "date": "2024-08-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Axis Air: HVAC El Paso TX | AC Repair & Installation",
+        "description": "Reliable HVAC services in El Paso, TX. AC repair, furnace installation, and indoor air quality solutions. Call Axis Air for expert service!"
+      },
+      "about": {
+        "title": "About Axis Air | El Paso HVAC Contractor",
+        "description": "Learn about Axis Air, a trusted HVAC contractor serving El Paso, TX. Quality service and reliable solutions for your heating and cooling needs."
+      },
+      "services": {
+        "title": "HVAC Services | Axis Air El Paso TX",
+        "description": "Comprehensive HVAC services in El Paso, TX. AC repair, furnace installation, ductwork services, and indoor air quality solutions."
+      },
+      "contact": {
+        "title": "Contact Axis Air | El Paso HVAC Experts",
+        "description": "Contact Axis Air for reliable HVAC service in El Paso, TX. Get a free quote for AC repair, furnace installation, and more!"
+      },
+      "reviews": {
+        "title": "Axis Air Reviews | El Paso HVAC Contractor",
+        "description": "Read reviews of Axis Air, a trusted HVAC contractor in El Paso, TX. See what our satisfied customers have to say about our services."
+      },
+      "service-areas": {
+        "title": "Axis Air Service Areas | HVAC El Paso TX",
+        "description": "Axis Air provides HVAC services in El Paso, TX and surrounding areas. Contact us for reliable heating and cooling solutions."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "furnace-repair": "/images/service-furnace-repair.webp",
+      "furnace-installation": "/images/service-furnace-installation.webp",
+      "ductwork-services": "/images/service-ductwork-services.webp",
+      "indoor-air-quality": "/images/service-indoor-air-quality.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-repair": {
+        "src": "/images/service-furnace-repair.webp",
+        "srcset": "/images/service-furnace-repair-400w.webp 400w, /images/service-furnace-repair-800w.webp 800w, /images/service-furnace-repair-1200w.webp 1200w, /images/service-furnace-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-installation": {
+        "src": "/images/service-furnace-installation.webp",
+        "srcset": "/images/service-furnace-installation-400w.webp 400w, /images/service-furnace-installation-800w.webp 800w, /images/service-furnace-installation-1200w.webp 1200w, /images/service-furnace-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ductwork-services": {
+        "src": "/images/service-ductwork-services.webp",
+        "srcset": "/images/service-ductwork-services-400w.webp 400w, /images/service-ductwork-services-800w.webp 800w, /images/service-ductwork-services-1200w.webp 1200w, /images/service-ductwork-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "indoor-air-quality": {
+        "src": "/images/service-indoor-air-quality.webp",
+        "srcset": "/images/service-indoor-air-quality-400w.webp 400w, /images/service-indoor-air-quality-800w.webp 800w, /images/service-indoor-air-quality-1200w.webp 1200w, /images/service-indoor-air-quality.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
